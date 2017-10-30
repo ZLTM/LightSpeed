@@ -1,4 +1,4 @@
-# ArkAde
+# LightSpeed (readme to be edited)
 > Web Page made for the company (まだしらないおにいちゃん----)
 
 [![Type](https://img.shields.io/badge/Type-Wep%20Page-945C1D.svg)]()
@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
-Web page created for (まだしらないおにいちゃん----), it showcases their arcade machines and allow contact with the selling team..
+First P5 project, canvas simulates light speed travel.
 
 ## Important
 codepen: https://codepen.io/zltm/pen/gXbZbJ
@@ -26,6 +26,9 @@ David Revilla:
   <img width="50" height="50" border="0" align="center"  src="twitter-logo.jpg"></a>
 <a href="https://www.linkedin.com/in/zolutr/" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="linkedin-logo.png"></a>
+  <a href="https://codepen.io/zltm/pen/gXbZbJ" target="_blank">
+  <img width="50" height="50" border="0" align="center"  src="codepen-logo.png"></a>
+
 
 * Write me to: jdavidrevillad@gmail.com
 * Look at my full [C.V](https://drive.google.com/drive/folders/0B9XODKe51qg8aFFXRE9aNE15QWc?usp=sharing)
