@@ -1,9 +1,9 @@
 # LightSpeed (readme to be edited)
-> Web Page made for the company (まだしらないおにいちゃん----)
+> Animation created in p5.js
 
 [![Type](https://img.shields.io/badge/Type-Wep%20Page-945C1D.svg)]()
-[![Use](https://img.shields.io/badge/Genre-Sensation-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
-[![State](https://img.shields.io/badge/State-Beta-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![Kind](https://img.shields.io/badge/Kind-Animation-DDA76A.svg)]()
+[![State](https://img.shields.io/badge/State-Done-2C834F.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
