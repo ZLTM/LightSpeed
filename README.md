@@ -8,14 +8,11 @@
 
 
 First P5 project, canvas simulates light speed travel.
-
-## Important
 codepen: https://codepen.io/zltm/pen/gXbZbJ
-** not uploaded YET Payment cant be made using online methods due to none of them working in Bolivia, place where the company is in, so no paypal **
 
 ## Participation
 
-* Front End:
+* Front End
 
 
 ## Contact
