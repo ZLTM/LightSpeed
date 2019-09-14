@@ -1,4 +1,4 @@
-# LightSpeed (readme to be edited)
+# LightSpeed
 > Animation created in p5.js
 
 [![Type](https://img.shields.io/badge/Type-Wep%20Page-945C1D.svg)]()
